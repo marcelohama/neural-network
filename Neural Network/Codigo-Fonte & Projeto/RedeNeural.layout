@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="MainWindow.h" open="0" top="0" tabpos="3">
+		<Cursor position="10027" topLine="137" />
+	</File>
+	<File name="Matriz.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="1307" topLine="32" />
+	</File>
+	<File name="Matriz.h" open="0" top="0" tabpos="0">
+		<Cursor position="618" topLine="0" />
+	</File>
+	<File name="Rede.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="13217" topLine="294" />
+	</File>
+	<File name="Rede.h" open="0" top="0" tabpos="3">
+		<Cursor position="1251" topLine="31" />
+	</File>
+	<File name="Tipo.h" open="0" top="0" tabpos="5">
+		<Cursor position="561" topLine="5" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="175" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
